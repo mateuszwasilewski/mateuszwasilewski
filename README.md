@@ -2,7 +2,7 @@
 
 ![Github Stats](./profile/stats.svg)
 
-🤖 Simulation engineer writing C++ for performance-critical applications
-⚙️ Managing GitHub Actions CI + self-hosted runner
-🖥️ Self-hosting services & infra
-☸️ Learning Kubernetes and GitOps in my free time
+- 🤖 Simulation engineer writing C++ for performance-critical applications
+- ⚙️ Managing GitHub Actions CI + self-hosted runner
+- 🖥️ Self-hosting services & infra
+- ☸️ Learning Kubernetes and GitOps in my free time
