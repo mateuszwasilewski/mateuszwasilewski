@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mateusz Wasilewski's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 2524, Total PRs: 553, Total PRs Merged: 519, Merged PRs Percentage: 93.85, Total Issues: 98, Contributed to (last year): 28</desc>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 2528, Total PRs: 553, Total PRs Merged: 519, Merged PRs Percentage: 93.85, Total Issues: 98, Contributed to (last year): 28</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 102.62443273998218;
+        stroke-dashoffset: 102.62401062652053;
       }
     }
   
